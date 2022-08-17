@@ -1,13 +1,13 @@
 ---
-title: Continuous Delivery (CD)
+title: ক্রমাগত বিতরণ (CD)
 status: Completed
-category: concept
+category: ধারণা
 tags: ["application", "methodology", ""]
 ---
 
-## What it is
+## এটা কি
 
-Continuous delivery, often abbreviated as  CD, is a set of practices 
+ক্রমাগত বিতরণ, যা সংক্ষেপে CD হিসেবে পরিচিত , is a set of practices 
 in which code changes are automatically deployed into an acceptance environment 
 (or, in the case of continuous deployment, into production). 
 CD crucially includes procedures to ensure that software is adequately tested 
